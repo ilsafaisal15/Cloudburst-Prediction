@@ -1,8 +1,8 @@
-ML Assignment 2 – Cloudburst Prediction
+**ML Assignment 2 – Cloudburst Prediction**
 
 This repository contains the implementation of ML Assignment 2, focused on analyzing cloudburst events and predicting associated impacts (e.g., deaths) using machine learning techniques.
 
-📌 Project Overview
+📌 **Project Overview**
 
 The project involves:
 
@@ -22,7 +22,7 @@ Model Evaluation – Accuracy, precision, recall, F1-score, confusion matrix, an
 
 Conclusion – Random Forest achieved the best performance (~70% accuracy), with peak rainfall and duration as the strongest predictors.
 
-🔑 Key Findings
+🔑 **Key Findings**
 
 Best Model: Random Forest (ensemble learning reduced overfitting).
 
@@ -32,7 +32,7 @@ KNN & Decision Tree: Struggled due to overlapping classes and overfitting.
 
 Hyperparameter Tuning: Boosted accuracy by ~3% across models.
 
-🛠️ Tech Stack
+🛠️ **Tech Stack**
 
 Python: Pandas, NumPy, Matplotlib, Seaborn, Plotly
 
@@ -40,7 +40,7 @@ Scikit-learn: Preprocessing, Modeling, Hyperparameter Tuning
 
 Evaluation Metrics: Accuracy, Precision, Recall, F1-score, ROC-AUC
 
-📊 Results
+📊 **Results**
 
 Random Forest outperformed KNN and Decision Tree.
 
